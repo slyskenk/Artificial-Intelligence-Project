@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 ﻿id,title,year
 p1,paperOne,2012
 p2,paperTwo,2013
 p3,paperThree,2014
 p4,paperFour,2015
+=======
+﻿id,title,year
+p1,paperOne,2012
+p2,paperTwo,2013
+p3,paperThree,2014
+p4,paperFour,2015
+>>>>>>> 4903de65bae9c0fba39c3fcc25408109f8e78bec
